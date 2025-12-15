@@ -1,0 +1,528 @@
+{
+  "lastUpdated": "2024-12-01",
+  "sources": ["Levels.fyi", "Glassdoor", "LinkedIn Salary", "AngelList", "Hired.com"],
+  "roles": [
+    {
+      "title": "Software Engineer",
+      "seniority": "Junior",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 95000,
+      "p50": 120000,
+      "p90": 145000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Mid",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 140000,
+      "p50": 175000,
+      "p90": 210000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Senior",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 180000,
+      "p50": 225000,
+      "p90": 280000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Lead",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 220000,
+      "p50": 275000,
+      "p90": 340000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Junior",
+      "location": "New York",
+      "currency": "USD",
+      "p10": 90000,
+      "p50": 115000,
+      "p90": 140000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Mid",
+      "location": "New York",
+      "currency": "USD",
+      "p10": 130000,
+      "p50": 165000,
+      "p90": 200000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Senior",
+      "location": "New York",
+      "currency": "USD",
+      "p10": 170000,
+      "p50": 215000,
+      "p90": 265000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Lead",
+      "location": "New York",
+      "currency": "USD",
+      "p10": 210000,
+      "p50": 260000,
+      "p90": 320000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Junior",
+      "location": "Austin",
+      "currency": "USD",
+      "p10": 75000,
+      "p50": 95000,
+      "p90": 115000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Mid",
+      "location": "Austin",
+      "currency": "USD",
+      "p10": 110000,
+      "p50": 140000,
+      "p90": 170000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Senior",
+      "location": "Austin",
+      "currency": "USD",
+      "p10": 145000,
+      "p50": 180000,
+      "p90": 220000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Lead",
+      "location": "Austin",
+      "currency": "USD",
+      "p10": 175000,
+      "p50": 215000,
+      "p90": 260000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Junior",
+      "location": "London",
+      "currency": "GBP",
+      "p10": 40000,
+      "p50": 55000,
+      "p90": 70000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Mid",
+      "location": "London",
+      "currency": "GBP",
+      "p10": 60000,
+      "p50": 80000,
+      "p90": 100000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Senior",
+      "location": "London",
+      "currency": "GBP",
+      "p10": 85000,
+      "p50": 110000,
+      "p90": 140000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Lead",
+      "location": "London",
+      "currency": "GBP",
+      "p10": 110000,
+      "p50": 140000,
+      "p90": 175000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Junior",
+      "location": "Sydney",
+      "currency": "AUD",
+      "p10": 70000,
+      "p50": 90000,
+      "p90": 110000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Mid",
+      "location": "Sydney",
+      "currency": "AUD",
+      "p10": 100000,
+      "p50": 130000,
+      "p90": 160000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Senior",
+      "location": "Sydney",
+      "currency": "AUD",
+      "p10": 140000,
+      "p50": 175000,
+      "p90": 210000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Lead",
+      "location": "Sydney",
+      "currency": "AUD",
+      "p10": 170000,
+      "p50": 210000,
+      "p90": 255000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Junior",
+      "location": "Berlin",
+      "currency": "EUR",
+      "p10": 45000,
+      "p50": 58000,
+      "p90": 72000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Mid",
+      "location": "Berlin",
+      "currency": "EUR",
+      "p10": 60000,
+      "p50": 78000,
+      "p90": 95000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Senior",
+      "location": "Berlin",
+      "currency": "EUR",
+      "p10": 80000,
+      "p50": 100000,
+      "p90": 125000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Lead",
+      "location": "Berlin",
+      "currency": "EUR",
+      "p10": 100000,
+      "p50": 125000,
+      "p90": 155000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Mid",
+      "location": "Remote",
+      "currency": "USD",
+      "p10": 100000,
+      "p50": 135000,
+      "p90": 170000
+    },
+    {
+      "title": "Software Engineer",
+      "seniority": "Senior",
+      "location": "Remote",
+      "currency": "USD",
+      "p10": 140000,
+      "p50": 180000,
+      "p90": 225000
+    },
+    {
+      "title": "Frontend Engineer",
+      "seniority": "Mid",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 135000,
+      "p50": 170000,
+      "p90": 205000
+    },
+    {
+      "title": "Frontend Engineer",
+      "seniority": "Senior",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 175000,
+      "p50": 220000,
+      "p90": 270000
+    },
+    {
+      "title": "Frontend Engineer",
+      "seniority": "Mid",
+      "location": "Remote",
+      "currency": "USD",
+      "p10": 95000,
+      "p50": 130000,
+      "p90": 165000
+    },
+    {
+      "title": "Backend Engineer",
+      "seniority": "Mid",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 140000,
+      "p50": 175000,
+      "p90": 215000
+    },
+    {
+      "title": "Backend Engineer",
+      "seniority": "Senior",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 185000,
+      "p50": 230000,
+      "p90": 285000
+    },
+    {
+      "title": "Full-Stack Engineer",
+      "seniority": "Mid",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 138000,
+      "p50": 172000,
+      "p90": 208000
+    },
+    {
+      "title": "Full-Stack Engineer",
+      "seniority": "Senior",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 178000,
+      "p50": 222000,
+      "p90": 275000
+    },
+    {
+      "title": "Full-Stack Engineer",
+      "seniority": "Mid",
+      "location": "Sydney",
+      "currency": "AUD",
+      "p10": 105000,
+      "p50": 135000,
+      "p90": 165000
+    },
+    {
+      "title": "Full-Stack Engineer",
+      "seniority": "Senior",
+      "location": "Sydney",
+      "currency": "AUD",
+      "p10": 145000,
+      "p50": 180000,
+      "p90": 215000
+    },
+    {
+      "title": "DevOps Engineer",
+      "seniority": "Mid",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 145000,
+      "p50": 180000,
+      "p90": 220000
+    },
+    {
+      "title": "DevOps Engineer",
+      "seniority": "Senior",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 185000,
+      "p50": 235000,
+      "p90": 290000
+    },
+    {
+      "title": "Data Engineer",
+      "seniority": "Mid",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 150000,
+      "p50": 185000,
+      "p90": 225000
+    },
+    {
+      "title": "Data Engineer",
+      "seniority": "Senior",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 190000,
+      "p50": 240000,
+      "p90": 300000
+    },
+    {
+      "title": "ML Engineer",
+      "seniority": "Mid",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 160000,
+      "p50": 200000,
+      "p90": 250000
+    },
+    {
+      "title": "ML Engineer",
+      "seniority": "Senior",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 210000,
+      "p50": 270000,
+      "p90": 340000
+    },
+    {
+      "title": "Product Designer",
+      "seniority": "Mid",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 120000,
+      "p50": 150000,
+      "p90": 185000
+    },
+    {
+      "title": "Product Designer",
+      "seniority": "Senior",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 160000,
+      "p50": 200000,
+      "p90": 245000
+    },
+    {
+      "title": "Product Designer",
+      "seniority": "Mid",
+      "location": "Remote",
+      "currency": "USD",
+      "p10": 90000,
+      "p50": 120000,
+      "p90": 150000
+    },
+    {
+      "title": "Product Manager",
+      "seniority": "Mid",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 140000,
+      "p50": 175000,
+      "p90": 215000
+    },
+    {
+      "title": "Product Manager",
+      "seniority": "Senior",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 185000,
+      "p50": 235000,
+      "p90": 295000
+    },
+    {
+      "title": "Product Manager",
+      "seniority": "Mid",
+      "location": "Sydney",
+      "currency": "AUD",
+      "p10": 120000,
+      "p50": 150000,
+      "p90": 185000
+    },
+    {
+      "title": "Technical Recruiter",
+      "seniority": "Mid",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 90000,
+      "p50": 115000,
+      "p90": 145000
+    },
+    {
+      "title": "Technical Recruiter",
+      "seniority": "Senior",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 120000,
+      "p50": 150000,
+      "p90": 185000
+    },
+    {
+      "title": "Engineering Manager",
+      "seniority": "Lead",
+      "location": "San Francisco",
+      "currency": "USD",
+      "p10": 240000,
+      "p50": 300000,
+      "p90": 380000
+    },
+    {
+      "title": "Engineering Manager",
+      "seniority": "Lead",
+      "location": "New York",
+      "currency": "USD",
+      "p10": 230000,
+      "p50": 285000,
+      "p90": 360000
+    },
+    {
+      "title": "Engineering Manager",
+      "seniority": "Lead",
+      "location": "Remote",
+      "currency": "USD",
+      "p10": 180000,
+      "p50": 230000,
+      "p90": 290000
+    }
+  ],
+  "skillPremiums": {
+    "React": 1.02,
+    "TypeScript": 1.03,
+    "Node.js": 1.02,
+    "Python": 1.02,
+    "Go": 1.05,
+    "Rust": 1.08,
+    "Kubernetes": 1.06,
+    "AWS": 1.04,
+    "GCP": 1.04,
+    "Machine Learning": 1.1,
+    "AI/LLM": 1.15,
+    "System Design": 1.05,
+    "Distributed Systems": 1.07,
+    "GraphQL": 1.03,
+    "PostgreSQL": 1.02,
+    "Redis": 1.02,
+    "Kafka": 1.05,
+    "Spark": 1.06
+  },
+  "locationMultipliers": {
+    "San Francisco": 1.0,
+    "New York": 0.95,
+    "Seattle": 0.92,
+    "Los Angeles": 0.88,
+    "Austin": 0.78,
+    "Denver": 0.75,
+    "Boston": 0.88,
+    "Remote": 0.8,
+    "London": 0.72,
+    "Berlin": 0.58,
+    "Sydney": 0.7,
+    "Toronto": 0.68,
+    "Singapore": 0.75
+  },
+  "industryMultipliers": {
+    "Fintech": 1.08,
+    "FAANG": 1.15,
+    "Crypto/Web3": 1.12,
+    "AI/ML Startups": 1.1,
+    "Enterprise SaaS": 1.02,
+    "E-commerce": 0.98,
+    "Healthcare": 0.95,
+    "Government": 0.85,
+    "Non-profit": 0.8,
+    "Agency": 0.88
+  },
+  "companySizeMultipliers": {
+    "1-10": 0.85,
+    "11-50": 0.92,
+    "51-200": 0.98,
+    "201-1000": 1.02,
+    "1000+": 1.08
+  }
+}
